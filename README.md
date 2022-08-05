@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/86588827/181847386-389eadcd-de4a-421b-908d-e31edc646657.png)
 
-
-
 ![GitHub watchers](https://img.shields.io/github/watchers/edgeEngine/edgeengine-linux-arm?style=social)![Discord](https://img.shields.io/discord/1002391068773457980)
 
 
@@ -58,7 +56,8 @@ What are the related (internal and external) Sources ?
 
 ## How does it work ?
 
-- A generic diagram ?
+https://user-images.githubusercontent.com/78563774/182989109-25acd32a-b620-400d-b119-a98b5b37e044.mp4
+
 
 ## Documentation 
 
